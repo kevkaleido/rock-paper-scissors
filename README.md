@@ -1,0 +1,1 @@
+This project is a simple implementation of the classic game "Rock, Paper, Scissors" using JavaScript. It is designed as a demonstration of the concepts and skills I have learned so far in JavaScript through The Odin Project (TOP). The game allows a human player to play multiple rounds against the computer and keeps track of the scores.
